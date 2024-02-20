@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a student with a focus on front-end development, <br>⚡passionate about crafting intuitive user experiences and bringing designs to life through code.<br>
+🔭 I'm a student with a focus on front-end development, <br>⚡ I'm committed to mastering the art of creating captivating user interfaces and seamless user experiences<br>
 
 
 ## 🌐 Socials:
