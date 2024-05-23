@@ -1,5 +1,4 @@
 ## About Me:
-<img src='https://i.pinimg.com/474x/8f/9d/71/8f9d71426f05c742f4841d169974807b.jpg' style="height: 400px;"/>
 Hi 👋, my name is Muhammad Raihan Resa <br><br>🎮 I like playing games <br>🔍 My focus is on the front end developer <br>🔥 I'm committed to mastering the art of creating captivating user interfaces and seamless user experiences<br><br>
 
 ## 🌐 Social Media:
