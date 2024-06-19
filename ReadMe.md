@@ -17,6 +17,6 @@ Hi 👋, my name is Muhammad Raihan Resa <br><br>🎮 I like playing games <br>�
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br><br><br><br>
 
-![Snake animation](https://github.com/Renn243/Renn243/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Renn243/Renn243/blob/output/github-contribution-grid-snake.gif)
 
 
