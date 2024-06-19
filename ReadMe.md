@@ -1,10 +1,22 @@
 ## About Me:
-Hi 👋, my name is Muhammad Raihan Resa <br><br>🎮 I like playing games <br>🔍 My focus is on the front end developer <br>🔥 I'm committed to mastering the art of creating captivating user interfaces and seamless user experiences<br><br>
+Hi 👋, my name is Muhammad Raihan Resa <br><br>🎮 I like playing games <br>🔍 My focus is on the front end developer <br>🔥 I am dedicated to creating engaging user interfaces and smooth user experiences<br><br>
 
 ## 🌐 Social Media:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raihanresa21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raihanresa21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhraihanresa243)<br><br>
+<a href="https://facebook.com/raihanresa21"><img src="assets/facebook.svg" alt="facebook" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/raihanresa21"><img src="assets/instagram.svg" alt="instagram" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/muhraihanresa243"><img src="assets/linkedin.svg" alt="linkedin" width="50" height="50"></a><br><br>
 
 ## 💻 Tools:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br><br>
+<img src="assets/html5.svg" alt="html5" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/css3.svg" alt="css3" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/javascript.svg" alt="javascript" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/react.svg" alt="react" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/kotlin.svg" alt="kotlin" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/androidstudio.svg" alt="androidstudio" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/figma.svg" alt="figma" width="100" height="100"><br><br><br><br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br><br><br><br>
+
+![Snake animation](https://github.com/Renn243/Renn243/blob/output/github-contribution-grid-snake.svg)
+
+
