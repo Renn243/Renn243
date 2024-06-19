@@ -15,8 +15,8 @@ Hi 👋, my name is Muhammad Raihan Resa <br><br>🎮 I like playing games <br>�
 <img src="assets/androidstudio.svg" alt="androidstudio" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/figma.svg" alt="figma" width="100" height="100"><br><br><br><br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br><br><br><br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br><br>
 
-![snake gif](https://github.com/Renn243/Renn243/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/Renn243/Renn243/blob/output/github-contribution-grid-snake-dark.svg)
 
 
